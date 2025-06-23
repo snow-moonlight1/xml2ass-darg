@@ -9,6 +9,8 @@
 
 Supports xml files downloaded by [NiconamaCommentViewer](https://www.posite-c.com/application/ncv/) and [ニコ生 新配信録画ツール（仮）](https://github.com/guest-nico/nicoNewStreamRecorderKakkoKari/releases)
 
+[工具安利*2(+X) - 哔哩哔哩](https://www.bilibili.com/opus/507122714384343628)
+
 ```sh
 python xml2ass.py xxx.xml
 ```
